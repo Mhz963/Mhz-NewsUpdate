@@ -1,0 +1,162 @@
+{
+    "status": "ok",
+    "totalResults": 12,
+    "articles": [
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": null,
+        "title": "Trump sees Tim Scott's entrance as great news… for Trump - POLITICO",
+        "description": "The former president’s team views virtually every ‘24 development through the prism of whether it helps or hurts Ron DeSantis.",
+        "url": "https://www.politico.com/news/2023/05/22/trump-tim-scott-2024-00098292",
+        "urlToImage": "https://static.politico.com/d1/7f/5bf775a0405d839646ebdc409d32/election-2024-scott-05250.jpg",
+        "publishedAt": "2023-05-23T00:43:14Z",
+        "content": "Trump aides have been buoyed in recent days by signs that the 24 primary field is about to get crowded. Scott has jumped in and DeSantis and former New Jersey Gov. Chris Christie, an ally turned foe … [+4609 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Alli Rosenbloom",
+        "title": "Halle Bailey and Fantasia Barrino star in the first trailer for new ‘The Color Purple’ movie - CNN",
+        "description": "Halle Bailey and Fantasia Barrino made their official debut on Monday in the first trailer for the upcoming “The Color Purple” movie, a musical reboot of the 1985 classic, based on the novel of the same name by Alice Walker.",
+        "url": "https://www.cnn.com/2023/05/22/entertainment/color-purple-2023-trailer/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230522182555-halle-bailey-the-color-purple-movie.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-05-22T23:41:00Z",
+        "content": "Halle Bailey and Fantasia Barrino made their official debut on Monday in the first trailer for the upcoming The Color Purple movie, a musical reboot of the 1985 classic, based on the novel of the sam… [+1573 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Ronny Reyes",
+        "title": "Covenant school parents argue against Audrey Hale manifesto release at tense court hearing - New York Post ",
+        "description": "Lawyers representing parents at the Nashville Covenant school where shooter Audrey Hale killed six people in March argued in court against releasing her manifesto publicly on Monday — but received …",
+        "url": "https://nypost.com/2023/05/22/covenant-parents-argue-against-audrey-hale-manifesto-release/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/NYPICHPDPICT000011573715.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2023-05-22T22:25:00Z",
+        "content": "Lawyers representing parents at the Nashville Covenant school where shooter Audrey Hale killed six people in March argued in court against releasing her manifesto publicly on Monday but received sign… [+4394 chars]"
+      },
+      {
+        "source": {
+          "id": "nbc-news",
+          "name": "NBC News"
+        },
+        "author": "Evan Bush",
+        "title": "Three states reach Colorado River deal to reduce water usage - NBC News",
+        "description": "The seven states that rely on the Colorado River for power and drinking water have reached a deal on cuts to keep the drought-stricken river flowing.",
+        "url": "https://www.nbcnews.com/science/science-news/arizona-california-nevada-cut-water-usage-drought-hit-colorado-river-rcna85567",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-05/230522-colorado-river-se-1058a-535fff.jpg",
+        "publishedAt": "2023-05-22T21:38:17Z",
+        "content": "The seven states that rely on the Colorado River for power and drinking water have reached a deal on cuts to keep the drought-stricken river flowing.\r\nThree states Arizona, California and Nevada  hav… [+6330 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Katie Balevic",
+        "title": "Bernice King responds to Ted Cruz after he invokes MLK - Business Insider",
+        "description": "After Ted Cruz invoked MLK in his criticism of the NAACP travel warning, Bernice King corrected him, saying her father would have been 'deeply concerned' by the state's new laws.",
+        "url": "https://www.businessinsider.com/bernice-king-ted-cruz-mlk-naacp-florida-anti-trans-laws-2023-5",
+        "urlToImage": "https://i.insider.com/646bbdb963c86a0018cd2a57?width=1200&format=jpeg",
+        "publishedAt": "2023-05-22T20:20:00Z",
+        "content": "Bernice King is once again defending the legacy of her father, Martin Luther King Jr., against people who she says are misusing his name and legacy. \r\nThis time, Texas Sen. Ted Cruz invoked the iconi… [+1809 chars]"
+      },
+      {
+        "source": {
+          "id": "nbc-news",
+          "name": "NBC News"
+        },
+        "author": "The Associated Press",
+        "title": "New search to begin for Madeleine McCann, UK toddler missing since 2007, Portuguese police confirm - NBC News",
+        "description": "LISBON — Portuguese police have said they will resume searching for Madeleine McCann, the British toddler who disappeared in the country’s Algarve region in 2007, in the next few days.",
+        "url": "https://www.nbcnews.com/news/world/new-search-begin-madeleine-mccann-uk-toddler-missing-2007-portuguese-p-rcna85657",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-05/220522-Madeleine-McCann-se-403p-f1c6f4.jpg",
+        "publishedAt": "2023-05-22T20:18:12Z",
+        "content": "LISBON Portuguese police have said they will resume searching for Madeleine McCann, the British toddler who disappeared in the countrys Algarve region in 2007, in the next few days.\r\nPortugals Judici… [+1770 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Aya Elamroussi,Omar Jimenez",
+        "title": "Daniel Penny, the man who held Jordan Neely in a fatal chokehold, says race had nothing to do with it, New York Post reports - CNN",
+        "description": "The Marine veteran who held an unhoused Black man in a deadly chokehold aboard a New York City subway train earlier this month defended his actions and said in an interview with the New York Post the killing “had nothing to do with race.”",
+        "url": "https://www.cnn.com/2023/05/22/us/daniel-penny-interview-jordan-neely-chokehold/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230522110914-daniel-penny-file-0512.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-05-22T17:51:00Z",
+        "content": "The Marine veteran who held an unhoused Black man in a deadly chokehold aboard a New York City subway train earlier this month defended his actions and said in an interview with the New York Post the… [+3873 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Christopher Brito",
+        "title": "Powassan virus disease: Here's what to know about the tick-borne illness - CBS News",
+        "description": "The Powassan virus can be transmitted to humans through the bite of an infected deer tick or woodchuck tick, health officials said.",
+        "url": "https://www.cbsnews.com/news/powassan-virus-death-maine-first-case-tick-2023/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/19/5f51e594-7bf3-4a8a-bda2-efea4aac33eb/thumbnail/1200x630/7bf9175b12413967cfb9ad64110bd7b6/gettyimages-179477168.jpg",
+        "publishedAt": "2023-05-22T16:58:00Z",
+        "content": "Officials are alerting people about the Powassan virus disease, a non-treatable illness spread by ticks. The first fatal case of 2023 was confirmed in Maine. \r\nThe Maine Center for Disease Control an… [+2893 chars]"
+      },
+      {
+        "source": {
+          "id": "entertainment-weekly",
+          "name": "Entertainment Weekly"
+        },
+        "author": "Clark Collis",
+        "title": "'Succession': We grade the eulogies given at Logan Roy's funeral - Entertainment Weekly News",
+        "description": "The best and worst tributes delivered by Kendall, Roman, Shiv, and Ewan.",
+        "url": "https://ew.com/tv/succession-logan-roy-funeral-roman-kendall-shiv/",
+        "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=%5B960%2C239%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F03%2F23%2Fsuccession-brian-cox-032323.jpg",
+        "publishedAt": "2023-05-22T16:00:00Z",
+        "content": "WARNING: This story contains spoilers for Succession season 4, episode 9, \"Church and State.\"\r\n\"Please be seated for a word from those who knew and loved Logan best,\" announced the officiant at the f… [+6244 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Ian Sample",
+        "title": "Scientists discover brain signals for chronic pain - The Guardian",
+        "description": "Discovery of ‘objective biomarker’ raises hopes for new treatments for people living with intractable pain",
+        "url": "https://www.theguardian.com/society/2023/may/22/scientists-discover-brain-signals-for-chronic-pain",
+        "urlToImage": "https://i.guim.co.uk/img/media/089bf3559be0c786c7a0cab1bc641ced76165b29/3_40_724_434/master/724.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a9666697d9b7f352a3dd00d9b689873",
+        "publishedAt": "2023-05-22T15:00:00Z",
+        "content": "Brain signals that reveal how much pain a person is in have been discovered by scientists who say the work is a step towards radical new treatments for people living with debilitating chronic pain.\r\n… [+3776 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Aisha Malik",
+        "title": "Venmo targets young consumers and parents with new teen accounts and debit card - TechCrunch",
+        "description": "Venmo is introducing teen accounts, allowing parents to open a Venmo account for their teenagers so they can send and receive money.",
+        "url": "https://techcrunch.com/2023/05/22/venmo-targets-young-users-parents-new-teen-account-debit-card/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/Venmo-Teen-Account-Group.jpg?resize=1200,800",
+        "publishedAt": "2023-05-22T12:00:40Z",
+        "content": "Venmo announced today that it’s introducing teen accounts, allowing parents and legal guardians to open a Venmo account for their teenagers so they can send and receive money. The account, which has … [+3332 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ScienceAlert"
+        },
+        "author": "Michelle Starr",
+        "title": "Captivating Close-Ups Show Amazing Details Hiding in The Glare of The Sun - ScienceAlert",
+        "description": "The largest and most powerful solar telescope on Earth has just given us breathtaking new views of the surface of the Sun.",
+        "url": "https://www.sciencealert.com/captivating-close-ups-show-amazing-details-hiding-in-the-glare-of-the-sun",
+        "urlToImage": "https://www.sciencealert.com/images/2023/05/sunspot-light-bridge.jpg",
+        "publishedAt": "2023-05-22T05:31:53Z",
+        "content": "The largest and most powerful solar telescope on Earth has just given us breathtaking new views of the surface of the Sun.\r\nIn a series of new images, the Daniel K. Inouye Solar Telescope's observati… [+5068 chars]"
+      }
+    ]
+  }
